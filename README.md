@@ -22,7 +22,7 @@
 <div class="w3-center w3-light-grey w3-padding-16 w3-hide-large w3-hide-medium">
 <div class="w3-bar w3-light-grey">
   <a href="#" class="w3-bar-item w3-button">Home</a>
-  <a href="#portfolio" class="w3-bar-item w3-button">Portfolio</a>
+  <a href="#menu" class="w3-bar-item w3-button">Menu</a>
   <a href="#contact" class="w3-bar-item w3-button">Contact</a>
 </div>
 </div>
@@ -31,6 +31,7 @@
 
   <!-- Images (Portfolio) -->
   <img src="bbq1.jpg" alt="dok" class="w3-image" width="1000" height="500">
+  <p>Seoul Korea BBQ</p>
   <img src="/w3images/ocean2.jpg" alt="Ocean II" class="w3-image w3-margin-top" width="1000" height="500">
   <img src="/w3images/falls2.jpg" alt="Falls" class="w3-image w3-margin-top" width="1000" height="500">
   <img src="/w3images/mountainskies.jpg" alt="Skies" class="w3-image w3-margin-top" width="1000" height="500">
