@@ -6,7 +6,7 @@
   <img class="w3-image" src="streak1.jpg" alt="Me" width="1500" height="600">
   <div class="w3-display-middle w3-padding-large w3-border w3-wide w3-text-light-grey w3-center">
     <h1 class="w3-hide-medium w3-hide-small w3-xxxlarge">10ร้านที่นักชิมไม่ควรพลาด</h1>
-    <h5 class="w3-hide-large" style="white-space:nowrap">Food</h5>
+    <h5 class="w3-hide-large" style="white-space:nowrap"></h5>
     <h3 class="w3-hide-medium w3-hide-small">ในหาดใหญ่</h3>
   </div>
   
